@@ -1,6 +1,8 @@
 #encoding=utf8
 __author__ = 'lingo'
 
+#当时第一次尝试，相当垃圾 哈哈 看看就好
+
 import urllib2
 import re
 from bs4 import BeautifulSoup
